@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Adjustable Over Current Relay Using Arduino & ACS712 Current Sensor
 
 You can use the [editor on GitHub](https://github.com/PasanBhanu/arduino-adjustable-over-current-relay/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
